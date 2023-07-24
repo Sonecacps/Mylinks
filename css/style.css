@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    background-color: black;
+    display: block;
+    background-image: url(../img/fundo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container{
+    display: block;
+    margin-top: 41px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 325px;
+    height: 90vh;
+   
+    
+}
+.imagem{
+    border-radius: 60px;
+}
+
+.titulo{
+    color: white;
+    margin-top: 20px;
+}
+
+.links{
+    margin-top: 35px;
+}
+
+li{
+    margin-top: 18px;
+}
+
+.link{
+    border-radius: 10px;
+    background-color: rgb(61, 87, 236);
+    padding: 10px;
+    width: 325px;
+    font-size: 20px;
+    display: block;   
+}
+
+a{
+    color: white;
+}
+.link:hover{
+   padding: 15px;
+   background-color: rgba(10, 12, 129, 0.76);
+}
+
+.f{
+    text-align: center;
+    color: white;
+    margin: 15px;
+    
+}
